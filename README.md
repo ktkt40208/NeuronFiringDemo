@@ -5,6 +5,8 @@
 ## 操作画面
 
 ![image](./ForReadme/sc1,png)
+
+
 ![image](./ForReadme/sc2.png)
 
 ## プレイ動画
