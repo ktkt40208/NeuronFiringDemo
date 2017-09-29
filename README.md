@@ -3,7 +3,7 @@
 ![image](./ForReadme/NatsumatsuriVR.png)
 
 ## プレイ画面
-![image](./ForReadme/DSC04860,JPG)
+![image](./ForReadme/DSC04860.png)
 ![image](./NatsumatsuriVR.png)
 ![image](./NatsumatsuriVR.png)
 ![image](./NatsumatsuriVR.png)
