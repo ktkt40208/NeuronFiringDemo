@@ -41,9 +41,9 @@ MovieForNeuronFiringDemoTDフォルダをCドライブ直下に配置しtoeフ�
 
 OS : windows10
 
-### ソフトウェア
+### ソフトウェア/言語
 
-TouchDesigner099
+TouchDesigner099(python3.6)
 Kinect Studio v2.0
 
 ### 周辺機器
