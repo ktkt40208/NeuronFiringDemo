@@ -4,6 +4,8 @@
 
 ## 操作画面
 
+![image](./ForReadme/sc0.png)
+
 ![image](./ForReadme/sc1.png)
 
 ![image](./ForReadme/sc2.png)
