@@ -2,59 +2,38 @@
 
 ![image](./ForReadme/DSC04860.png)
 
+## 操作画面!
+[image](./ForReadme/sc1,png)
+[image](./ForReadme/sc2.png)
+
 ## プレイ動画
 [Click here](https://vimeo.com/235548118)
-<!-- [![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!") -->
-<!-- https://imgur.com/a/pgCN4 -->
-
-## 制作進捗
-
-kinectを用いて最もkinectから近い距離にいる人をプレイヤーとして設定する(TouchDesignerではkinectCHOPで最大6人の骨格を判定できる)。
-プレイヤーは手を頭に近づけることによって動画の再生を切り替えることができる。
-神経細胞の発火を体験できるインタラクティブコンテンツとして、左手が頭に触れると左側の神経細胞群が発火しその反応が右側の神経細胞群に伝わるようになっている。右手が触れた場合はその逆となる。
-スイッチ一つでインタラクティブモードと動画モードを切り替えられるようにした。
 
 ## 概要
+脳の神経細胞を人工的に生成する研究室とのコラボレーションプロジェクトで神経細胞の情報伝達の仕組みを体験して直感的に理解するインタラクティブコンテンツをTouchDesignerを利用して作成した。
+動画の素材として
+[Click here](https://www.youtube.com/watch?v=yy994HpFudc)
+[Click here](https://www.youtube.com/watch?v=il5KvMfKLq0)
+を利用させていただいた。
 
-
-
-## 操作説明
-
-### 移動
-
-椅子に座り、足元の魔法の絨毯(wiiボード)へ体重をかけて移動します。
-
-![image](./ForReadme/MovementManual.png)
-
-### 屋台の楽しみ方
-
-![image](./ForReadme/ScoreGetManual.png)
-
+## 制作進捗
+1. kinectを用いて最もkinectから近い距離にいる人をプレイヤーとして設定する(TouchDesignerではkinectCHOPで最大6人の骨格を判定できる)。
+2. プレイヤーは手を頭に近づけることによって動画の再生を切り替えることができる。
+3. 左手が頭に触れると左側の神経細胞群が発光しその反応が右側の神経細胞群に伝わるようになっている。右手が触れた場合はその逆となる。
+4. スイッチ一つでインタラクティブモードとノンインタラクティブ動画モードを切り替えられるようにした。これによって展覧会時に人の流れを潤滑にしたいときはノンインタラクティブ動画モードにしておき、一巡した後のお酒の場ではインタラクティブモードを楽しんでもらうといった使い分けができる。
 
 ## 制作環境/プレイ環境
 MovieForNeuronFiringDemoTDフォルダをCドライブ直下に配置しtoeファイルをTouchDesigner099にて開いてください。
+プロジェクターで投影する場合は(./project1/RightProjection2)と(./project1/LeftProjection1)をそれぞれ右クリックしViewを押して接続した二台の同じ型番のプロジェクターにそれぞれのウィンドウをフルスクリーン表示してください。
 
 ### PC
 
 OS : windows10
 
-プロセッサ : Intel Core i7-7700HQ @ 2.80GHz
-
-GPU : NVIDIA GeForce GTX 1070
-
-RAM : 8GB
-
-Bluetooth接続環境
-
 ### ソフトウェア
 
-Unity 2017.1.0f3 Personal
-
-Visual Studio 2017 Community
-
-Blender
-
-SketchUp
+TouchDesigner099
+Kinect Studio v2.0
 
 ### 周辺機器
 
