@@ -3,7 +3,7 @@
 ![image](./ForReadme/DSC04860.png)
 
 ## プレイ動画
-[![Click here]](https://vimeo.com/235548118)
+[Click here](https://vimeo.com/235548118)
 <!-- [![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!") -->
 <!-- https://imgur.com/a/pgCN4 -->
 
