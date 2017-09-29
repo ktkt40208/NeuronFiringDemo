@@ -49,3 +49,6 @@ Kinect Studio v2.0
 ### 周辺機器
 
 KinectV2
+
+## 謝辞
+プロジェクションされるハードを制作してくれた現RCA-IISデザインラボスタッフの[Christian](https://www.christianfelsner.com/)に感謝します。
