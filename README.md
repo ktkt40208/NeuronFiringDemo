@@ -2,9 +2,9 @@
 
 ![image](./ForReadme/DSC04860.png)
 
-## 操作画面!
-[image](./ForReadme/sc1,png)
-[image](./ForReadme/sc2.png)
+## 操作画面
+![image](./ForReadme/sc1,png)
+![image](./ForReadme/sc2.png)
 
 ## プレイ動画
 [Click here](https://vimeo.com/235548118)
